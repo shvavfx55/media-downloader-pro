@@ -1,19 +1,13 @@
 {
   "version": "1.7.5",
   "downloadUrl": "https://github.com/shvavfx55/media-downloader-pro/releases/download/1.7.5/MediaDownloaderPro-v1.7.5.zip",
-  "releaseUrl": "https://github.com/shvavfx55/media-downloader-pro/releases/latest",
+  "releaseUrl": "https://github.com/shvavfx55/media-downloader-pro/releases/tag/1.7.5",
   "tutorialUrl": "https://youtu.be/FUJ9qiIsVos",
   "mandatory": false,
   "notes": [
-    "▶ Watch the full tutorial: https://youtu.be/FUJ9qiIsVos (or tap the 'Watch Tutorial' button below)",
+    "▶ Watch the full tutorial: https://youtu.be/FUJ9qiIsVos",
     "",
-    "── v1.7.5 — yt-dlp & Stability Update ──",
-    "• UPDATED: yt-dlp updated to the latest version",
-    "• FIXED: Several download and media extraction issues",
-    "• FIXED: Various stability and compatibility issues",
-    "• IMPROVED: Download reliability with updated yt-dlp support",
-    "",
-    "── v1.7.4 ──",
-    "• Previous stability and download fixes"
+    "── v1.7.5 — Latest Release ──",
+    "• Your 1.7.5 changes here"
   ]
 }
